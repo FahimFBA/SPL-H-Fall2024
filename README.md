@@ -1,4 +1,4 @@
-# ICS - B Course Website (Fall 2024)
+# SPL - H Course Website (Fall 2024)
 
 ![Banner](./static/img/banner1.png)
 
