@@ -1,6 +1,6 @@
 # ICS - B Course Website (Fall 2024)
 
-![Banner](./static/img/banner.png)
+![Banner](./static/img/banner1.png)
 
 ## Used Technologies
 
